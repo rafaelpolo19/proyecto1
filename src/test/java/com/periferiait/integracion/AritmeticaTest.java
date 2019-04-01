@@ -30,7 +30,7 @@ public class AritmeticaTest {
       @Test
     public void multiplicacion() {
         Aritmetica aritmetica=new Aritmetica();
-        assert(aritmetica.multiplicacion(1, 1)==2);
+        assert(aritmetica.multiplicacion(1, 1)==1);
     }
 
     // TODO add test methods here.
